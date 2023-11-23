@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I'm a Keyboard Enthusiast in the making and I like to ride my BMX**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
