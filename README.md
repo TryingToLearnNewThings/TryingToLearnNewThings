@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything :D I will try to answer everything to the best of my knowledge**
 
-- ⚡ Fun fact <br>**I'm a Keyboard Enthusiast in the making and I like to ride my BMX**
+- ⚡ Fun fact <br>**I'm a Keyboard Enthusiast in the making, but I got no money left for it :<**
 
 <p align="left"></p>
 
