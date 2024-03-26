@@ -19,4 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tryingtolearnnewthings&show_icons=true&locale=en&layout=compact" alt="tryingtolearnnewthings" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tryingtolearnnewthings&show_icons=true&locale=en" alt="tryingtolearnnewthings" /></p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=TryingToLearnNewThings&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
