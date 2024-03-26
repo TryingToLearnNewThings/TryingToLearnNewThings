@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tryingtolearnnewthings&show_icons=true&locale=en&layout=compact" alt="tryingtolearnnewthings" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tryingtolearnnewthings&show_icons=true&locale=en" alt="tryingtolearnnewthings" /></p>
+<p>[![trophy](https://github-profile-trophy.vercel.app/?username=TryingToLearnNewThings&theme=onedark)](https://github.com/TryingToLearnNewThings)</p>
