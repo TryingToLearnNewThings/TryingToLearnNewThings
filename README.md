@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tryingtolearnnewthings&show_icons=true&locale=en" alt="tryingtolearnnewthings" /></p>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=TryingToLearnNewThings&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=TryingToLearnNewThings&&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
