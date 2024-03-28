@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tryingtolearnnewthings&label=Profile%20views&color=0e75b6&style=flat" alt="tryingtolearnnewthings" /> </p>
 
-- 🔭 I’m currently working on [High-End Habits](https://github.com/TryingToLearnNewThings/H.E.H)
+- 🔭 I’m currently working on [Schoolplanner](https://github.com/TryingToLearnNewThings/Schoolplanner)
 
 - 🌱 I’m currently learning **React**
 
