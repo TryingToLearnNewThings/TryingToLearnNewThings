@@ -13,7 +13,7 @@
 <br>
 <img align="right" src="assets/KillLaKill.gif"/>
 <h3>Hobbies:</h3>
-<h3><i> - Watching Animes <br> - Reading Mangas <br> - Gaming <br> - Riding BMX</i></h3>
+<h3><i> - Watching Animes <br> - Reading Mangas <br> - Gaming <br> - Riding BMX <br> - Playing Basketball or Volleyball</i></h3>
 <br><hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tryingtolearnnewthings&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
