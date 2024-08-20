@@ -9,11 +9,9 @@
 <h2>About Me:</h2>
 <h3><i>I'm 21 Years old and currently living in Germany</i></h3>
 <h3>Currently Learning:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="15" />
-  <img src="assets/plus.svg" height="35">
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="assets/plus.svg" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <br>
 <img align="right" src="assets/KillLaKill.gif"/>
 <h3>Hobbies:</h3>
