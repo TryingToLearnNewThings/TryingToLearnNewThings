@@ -1,7 +1,7 @@
 <h1 align="center">̷H̷̷i̷ 👋! ̷M̷̷y̷ ̷n̷a̷̷m̷̷e̷ ̷i̷̷s̷ ̷H̷a̷̷i̷</h1>
 <br>
 <div align="center">
-  <img align="center" height="500" src="assets/Cat.gif"/>
+  <img align="center" height="500" src="assets/Cat.gif" alt="Cat typing on Keyboard"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=F7F0ACFF&multiline=true&width=500&height=100&lines=I'm+a+Computer+science+trainee;focussing+on+Software+Development" alt="Typing SVG" /></a>
 </div>
 <br>
@@ -11,21 +11,17 @@
 <h3>Currently Learning:</h3>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/><img src="assets/plus.svg" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></p>
 <br>
-<img align="right" src="assets/KillLaKill.gif"/>
+<img align="right" src="assets/KillLaKill.gif" alt="Kill La Kill anime"/>
 <h3>Hobbies:</h3>
-<h3><i> - Watching Animes <br> - Reading Mangas <br> - Gaming <br> - Riding BMX <br> - Playing Basketball or Volleyball</i></h3>
+<h3><i> - Watching Anime & Reading Manga <br> - Reading <br> - Gaming <br> - Riding BMX <br> - Playing Basketball or Volleyball</i></h3>
 <br><hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tryingtolearnnewthings&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tryingtolearnnewthings&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tryingtolearnnewthings&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=tryingtolearnnewthings&no-bg=true&theme=dracula" height="150" alt="trophy graph"  />
 </div>
 <br><br><br>
 
-<img align="right" height="400" src="assets/Rika.gif" alt="Trampoline" />
+<img align="right" height="400" src="assets/Rika.gif" alt="Rikka Takanashi 'dance'" />
 <h3 align="left">Languages</h3>
 <br>
 
@@ -72,13 +68,8 @@
 <div align="left"> 
   <a href="https://discord.gg/rD8Z3rEX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="45" alt="discord logo"  />
-  </a> 
-  <a href="mailto:henryluchs@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="45" alt="gmail logo"  />
-  </a> 
+  </a>  
   <a href="https://www.instagram.com/marcel_134/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="45" alt="instagram logo"  />
   </a>
 </div>
-<hr>
-<img align="center" src="assets/Nichi.gif" width="10000" height="400">
