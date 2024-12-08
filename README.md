@@ -64,12 +64,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
 </div>
 <br><br><br><hr>
-<h2 align="left">Contact Me:</h2>
-<div align="left"> 
-  <a href="https://discord.gg/rD8Z3rEX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="45" alt="discord logo"  />
-  </a>  
-  <a href="https://www.instagram.com/marcel_134/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="45" alt="instagram logo"  />
-  </a>
-</div>
