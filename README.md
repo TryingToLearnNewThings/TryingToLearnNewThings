@@ -16,4 +16,3 @@
 | Frameworks & tools    | React, Vite, Node.js                                                                                 |
 | languages.programming | JavaScript, TypeScript, Python, Terraform                                                            |
 | languages.real        | German, English                                                                                      |
-
