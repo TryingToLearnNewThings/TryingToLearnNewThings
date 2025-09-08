@@ -24,7 +24,7 @@ markdown = f"""
 ## TryingToLearnNewThings
 
 <p align="right">gif from: Kill la Kill</p>
-<img align="right" height="300" src="assets/KillLaKill.gif" alt="Ryūko Matoi" />
+<img align="right" height="280" src="assets/KillLaKill.gif" alt="Ryūko Matoi" />
 
 |                       |                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
